@@ -8,7 +8,7 @@
 - **Unveil trending topics**: Stay up-to-date with frequently discussed topics in Data Science.
 - **Understanding Creator Upload Patterns**: Analyze the upload frequency of data science creators, examining the best days for publishing new videos to maximize audience engagement.
 - **Sentiment analysis**: Use Finite-Automata sentiment classifier model to analyze audiences' comments to get audiences' reactions out of the topics. eg: Are viewers reacting positively/negatively to the development of AI?
-- Interactive Report Generation: As an outcome of our analyses, I will create detailed and interactive reports. 
+- **Interactive Report**: As an outcome of our analyses, I will create detailed and interactive reports. 
 
 ## 3. Workflow and Methodology
 - **Obtaining Video Metadata via YouTube API**: The first step involves utilizing the YouTube API to gather video metadata from the top 10-15 data science channels. To achieve this, I will create a developer key, request data from the API, and transform the responses into a usable data format. 
