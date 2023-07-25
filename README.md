@@ -4,10 +4,10 @@
 **Analysis of Top 10 Data Science Channels using Youtube API** is a data-driven project aimed at exploring key factors that influence the success of YouTube videos in the data science niche. The project involves leveraging the YouTube API to obtain video data, conducting in-depth analyses, and dispelling common myths surrounding video performance. By utilizing various data analysis techniques and Natural Language Processing (NLP) methods, I aim to provide valuable insights to content creators, data science students, and enthusiasts.
 
 ## 2. Project Objectives
-- Validating Common "Myths" About Video Success: Investigate the impact of likes, comments, video duration, and title length on video views to validate or debunk common beliefs surrounding YouTube video performance.
-- Analyzing Tags and Trending Topics: Explore the relationship between the number of tags used in successful videos and identify common tags among high-performing content. Additionally, I utilize NLP techniques to uncover trending topics and themes based on video titles.
-- Understanding Creator Upload Patterns: Analyze the upload frequency of data science creators, examining the best days for publishing new videos to maximize audience engagement.
-- Sentiment analysis to understand audiences' reactions: Use Finite-Automata sentiment classifier model to analyze audiences' comments to get their sentiment around the topic
+- **Validating Common "Myths" About Video Success**: Investigate the impact of likes, comments, video duration, and title length on video views to validate or debunk common beliefs surrounding YouTube video performance.
+- **Unveil trending topics**: Stay up-to-date with frequently discussed topics in Data Science.
+- **Understanding Creator Upload Patterns**: Analyze the upload frequency of data science creators, examining the best days for publishing new videos to maximize audience engagement.
+- **Sentiment analysis**: Use Finite-Automata sentiment classifier model to analyze audiences' comments to get audiences' reactions out of the topics. eg: Are viewers reacting positively/negatively to the development of AI?
 - Interactive Report Generation: As an outcome of our analyses, I will create detailed and interactive reports. 
 
 ## 3. Workflow and Methodology
