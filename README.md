@@ -9,7 +9,7 @@ YouTube Data Science Insights is a data-driven project aimed at exploring key fa
 - Analyzing Tags and Trending Topics: Explore the relationship between the number of tags used in successful videos and identify common tags among high-performing content. Additionally, utilize NLP techniques to uncover trending topics and themes based on video titles.
 - Understanding Creator Upload Patterns: Analyze the upload frequency of data science creators, examining the best days for publishing new videos to maximize audience engagement.
 - Uncovering Viewer Interests: Investigate the types of questions asked in video comment sections to gain insights into viewer engagement and interests.
-- Interactive Report Generation: As an outcome of our analyses, I will create detailed and interactive reports. These reports will serve as valuable resources for data science enthusiasts, educators, and aspiring content creators, fostering a thriving YouTube data science community.
+- Interactive Report Generation: As an outcome of our analyses, I will create detailed and interactive reports. 
 
 ## 3. Workflow and Methodology
 - **Obtaining Video Metadata via YouTube API**: The first step involves utilizing the YouTube API to gather video metadata from the top 10-15 data science channels. To achieve this, you will need to create a developer key, request data from the API, and transform the responses into a usable data format. This process will provide the foundation for subsequent analyses.
@@ -17,17 +17,10 @@ YouTube Data Science Insights is a data-driven project aimed at exploring key fa
 - **Exploratory Data Analysis (EDA)**: With the preprocessed data and engineered features, exploratory data analysis will be conducted. This step involves visualizing and summarizing key statistics, trends, and patterns within the data. Through EDA, we aim to gain initial insights into factors that contribute to video success and identify potential relationships between variables.
 - **Drawing Conclusions**: The final step of the project entails drawing meaningful conclusions based on the findings from the exploratory data analysis. By examining the relationships between various video metrics and performance, we will address the project objectives, validate or debunk video "myths," and provide actionable insights for content creators in the data science niche.
 
-
-
-## 4. Installation
-To run this project locally, follow these steps:
-- Clone this repository to your local machine.
-- Obtain a YouTube Data API Key by following the instructions at YouTube Data API.
-- Replace YOUR_API_KEY in the config.py file with your actual YouTube Data API Key.
-
-## 5. Usage
-- Run the script to initiate data collection and analysis.
-- The script will fetch video data from YouTube using the YouTube API and store it in a local database.
-- Various analyses will be performed, such as evaluating the correlation between video metrics and video performance.
-- The results and insights will be presented through visualizations and reports.
+## 4. Key takeaways
+In this project, I have delved into the video data of the top 10 Data Science/Data Analytics channels on YouTube, unearthing several fascinating insights that would benefit anyone starting a YouTube channel, be it in data science or any other field:
+- The most popular topics discussed on these channels include project tutorials, Data Science, Machine Learning, Learning Python, and Interview Prep.
+- Videos that receive higher numbers of likes and comments tend to garner more views. Likes, in particular, appear to be a stronger indicator of viewer engagement compared to comments. Moreover, the number of likes seems to follow the concept of "social proof," where increased views result in more likes from viewers.
+- Most-viewed videos typically have titles with an average length of 30-70 characters. Titles that are either too short or excessively long impact viewership.
+- In terms of uploading schedules, the most common days for video releases are Tuesdays, Fridays, and Saturdays. Conversely, Thursdays and Sundays do not seem to be popular choices for posting new videos.
 
