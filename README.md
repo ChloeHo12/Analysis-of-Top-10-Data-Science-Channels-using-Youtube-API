@@ -4,11 +4,10 @@
 **Analysis of Top 10 Data Science Channels using Youtube API** is a data-driven project aimed at exploring key factors that influence the success of YouTube videos in the data science niche. The project involves leveraging the YouTube API to obtain video data, conducting in-depth analyses, and dispelling common myths surrounding video performance. By utilizing various data analysis techniques and Natural Language Processing (NLP) methods, I aim to provide valuable insights to content creators, data science students, and enthusiasts.
 
 ## 2. Project Objectives
-- Understanding the YouTube API: Familiarize ourselves with the YouTube API to collect relevant video data required for analysis.
 - Validating Common "Myths" About Video Success: Investigate the impact of likes, comments, video duration, and title length on video views to validate or debunk common beliefs surrounding YouTube video performance.
 - Analyzing Tags and Trending Topics: Explore the relationship between the number of tags used in successful videos and identify common tags among high-performing content. Additionally, I utilize NLP techniques to uncover trending topics and themes based on video titles.
 - Understanding Creator Upload Patterns: Analyze the upload frequency of data science creators, examining the best days for publishing new videos to maximize audience engagement.
-- Uncovering Viewer Interests: Investigate the types of questions asked in video comment sections to gain insights into viewer engagement and interests.
+- Sentiment analysis to understand audiences' reactions: Use Finite-Automata sentiment classifier model to analyze audiences' comments to get their sentiment around the topic
 - Interactive Report Generation: As an outcome of our analyses, I will create detailed and interactive reports. 
 
 ## 3. Workflow and Methodology
