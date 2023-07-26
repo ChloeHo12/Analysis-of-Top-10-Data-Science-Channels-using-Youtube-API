@@ -21,8 +21,18 @@ In this project, I have delved into the video data of the top 10 Data Science/Da
   
   <img width="1428" alt="Screenshot 2023-07-25 at 10 17 09 PM" src="https://github.com/ChloeHo12/Analysis-of-Top-10-Data-Science-Channels-using-Youtube-API/assets/98048503/ca363708-2071-4955-bd3d-3e03595351cb">
 
-- The sentiment analysis revealed that 50% of the data science topics discussed in these videos garnered positive feedback from the audiences, with only 8% of the comments being neutral. Interestingly, 41% of the reactions expressed negativity.
-- Videos that receive higher numbers of likes and comments tend to garner more views. Likes, in particular, appear to be a stronger indicator of viewer engagement compared to comments. Moreover, the number of likes seems to follow the concept of "social proof," where increased views result in more likes from viewers.
-- Most-viewed videos typically have titles with an average length of 30-70 characters. Titles that are either too short or excessively long impact viewership.
-- In terms of uploading schedules, the most common days for video releases are Tuesdays, Fridays, and Saturdays. Conversely, Thursdays and Sundays are not popular choices for posting new videos.
+- The sentiment analysis revealed that 64% of the data science topics discussed in these videos garnered positive feedback from the audiences, with only 6% of the comments being neutral. Only a third of the comments expressed negativity.
+
+  <img width="775" alt="Screenshot 2023-07-25 at 10 48 15 PM" src="https://github.com/ChloeHo12/Analysis-of-Top-10-Data-Science-Channels-using-Youtube-API/assets/98048503/58648392-0446-4cc7-b2a5-1cfbc718d78c">
+ 
+- The more likes and comments a video has, the more views the video gets. Likes seem to be a better indicator for interaction than comments and the number of likes seem to follow the "social proof", which means the more views the video has, the more people will like it.
+
+  <img width="1049" alt="Screenshot 2023-07-25 at 10 49 08 PM" src="https://github.com/ChloeHo12/Analysis-of-Top-10-Data-Science-Channels-using-Youtube-API/assets/98048503/c3c43f40-c262-4668-baca-fa620a4eaaf3">
+  
+- Most-viewed videos tend to have average title length of 30-70 characters. Too short or too long titles seem to harm viewership.
+  <img width="1062" alt="Screenshot 2023-07-25 at 10 49 47 PM" src="https://github.com/ChloeHo12/Analysis-of-Top-10-Data-Science-Channels-using-Youtube-API/assets/98048503/a1c6728a-bb69-4b90-b0fc-6e103d5187b3">
+
+- Videos are usually uploaded on Tuesdays, Fridays, and Saturdays. Thursdays and Sundays in particular is not a popular time for posting new videos.
+  <img width="1044" alt="Screenshot 2023-07-25 at 10 50 13 PM" src="https://github.com/ChloeHo12/Analysis-of-Top-10-Data-Science-Channels-using-Youtube-API/assets/98048503/98abb613-2ec2-493f-80c9-8d8ece2732c4">
+
 
