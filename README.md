@@ -18,7 +18,9 @@
 ## 4. Key takeaways
 In this project, I have delved into the video data of the top 10 Data Science/Data Analytics channels on YouTube, unearthing several fascinating insights that would benefit anyone starting a YouTube channel, be it in data science or any other field:
 - The most popular topics these channels discuss include project tutorials, Data Science, Machine Learning, Learning Python, and Interview Prep.
-  <img width="966" alt="Screenshot 2023-07-25 at 10 13 53 PM" src="https://github.com/ChloeHo12/Analysis-of-Top-10-Data-Science-Channels-using-Youtube-API/assets/98048503/a898cb1a-c239-4853-84e5-c4d94e8ae938">
+  
+  <img width="1428" alt="Screenshot 2023-07-25 at 10 17 09 PM" src="https://github.com/ChloeHo12/Analysis-of-Top-10-Data-Science-Channels-using-Youtube-API/assets/98048503/ca363708-2071-4955-bd3d-3e03595351cb">
+
 - The sentiment analysis revealed that 50% of the data science topics discussed in these videos garnered positive feedback from the audiences, with only 8% of the comments being neutral. Interestingly, 41% of the reactions expressed negativity.
 - Videos that receive higher numbers of likes and comments tend to garner more views. Likes, in particular, appear to be a stronger indicator of viewer engagement compared to comments. Moreover, the number of likes seems to follow the concept of "social proof," where increased views result in more likes from viewers.
 - Most-viewed videos typically have titles with an average length of 30-70 characters. Titles that are either too short or excessively long impact viewership.
