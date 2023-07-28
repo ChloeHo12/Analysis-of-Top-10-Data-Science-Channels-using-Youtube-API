@@ -18,21 +18,25 @@
 ## 4. Key takeaways
 In this project, I have delved into the video data of the top 10 Data Science/Data Analytics channels on YouTube, unearthing several fascinating insights that would benefit anyone starting a YouTube channel, be it in data science or any other field:
 - The most popular topics these channels discuss include project tutorials, Data Science, Machine Learning, Learning Python, and Interview Prep.
+  <img width="890" alt="Screenshot 2023-07-27 at 8 07 48 PM" src="https://github.com/ChloeHo12/Analysis-of-Top-10-Data-Science-Channels-using-Youtube-API/assets/98048503/f00b4f4a-0ea8-4a20-bdcf-e2a04226b510">
   
-  <img width="1428" alt="Screenshot 2023-07-25 at 10 17 09 PM" src="https://github.com/ChloeHo12/Analysis-of-Top-10-Data-Science-Channels-using-Youtube-API/assets/98048503/ca363708-2071-4955-bd3d-3e03595351cb">
-
 - The sentiment analysis revealed that 64% of the data science topics discussed in these videos garnered positive feedback from the audiences, with only 6% of the comments being neutral. Only a third of the comments expressed negativity.
 
-  <img width="775" alt="Screenshot 2023-07-25 at 10 48 15 PM" src="https://github.com/ChloeHo12/Analysis-of-Top-10-Data-Science-Channels-using-Youtube-API/assets/98048503/58648392-0446-4cc7-b2a5-1cfbc718d78c">
- 
-- The more likes and comments a video has, the more views the video gets. Likes seem to be a better indicator for interaction than comments and the number of likes seem to follow the "social proof", which means the more views the video has, the more people will like it.
+  <img width="468" alt="Screenshot 2023-07-27 at 8 08 18 PM" src="https://github.com/ChloeHo12/Analysis-of-Top-10-Data-Science-Channels-using-Youtube-API/assets/98048503/5e954d6b-6a8b-411d-a326-0048e6284714">
 
-  <img width="1049" alt="Screenshot 2023-07-25 at 10 49 08 PM" src="https://github.com/ChloeHo12/Analysis-of-Top-10-Data-Science-Channels-using-Youtube-API/assets/98048503/c3c43f40-c262-4668-baca-fa620a4eaaf3">
-  
-- Most-viewed videos tend to have average title length of 30-70 characters. Too short or too long titles seem to harm viewership.
-  <img width="1062" alt="Screenshot 2023-07-25 at 10 49 47 PM" src="https://github.com/ChloeHo12/Analysis-of-Top-10-Data-Science-Channels-using-Youtube-API/assets/98048503/a1c6728a-bb69-4b90-b0fc-6e103d5187b3">
+- The more likes and comments a video has, the more views the video gets. Likes seem to be a better indicator for interaction than comments and the number of likes seems to follow the "social proof", which means the more views the video has, the more people will like it.
 
-- Videos are usually uploaded on Tuesdays, Fridays, and Saturdays. Thursdays and Sundays in particular is not a popular time for posting new videos.
-  <img width="1044" alt="Screenshot 2023-07-25 at 10 50 13 PM" src="https://github.com/ChloeHo12/Analysis-of-Top-10-Data-Science-Channels-using-Youtube-API/assets/98048503/98abb613-2ec2-493f-80c9-8d8ece2732c4">
+  <img width="934" alt="Screenshot 2023-07-27 at 8 08 46 PM" src="https://github.com/ChloeHo12/Analysis-of-Top-10-Data-Science-Channels-using-Youtube-API/assets/98048503/ff76982b-cb07-4c8e-aab9-bc7841b12db3">
+
+
+- Most-viewed videos tend to have an average title length of 30-70 characters. Too short or too long titles harm viewership.
+
+   <img width="914" alt="Screenshot 2023-07-27 at 8 09 11 PM" src="https://github.com/ChloeHo12/Analysis-of-Top-10-Data-Science-Channels-using-Youtube-API/assets/98048503/12a6402f-8e85-4f71-87d8-711e9b9b3dae">
+
+
+- Videos are usually uploaded on Tuesdays, Fridays, and Saturdays. Thursdays and Sundays, in particular, í not a popular time for posting new videos.
+
+  <img width="907" alt="Screenshot 2023-07-27 at 8 09 39 PM" src="https://github.com/ChloeHo12/Analysis-of-Top-10-Data-Science-Channels-using-Youtube-API/assets/98048503/41d0098d-02b9-4c70-b42c-9423a92008e0">
+
 
 
